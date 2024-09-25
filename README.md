@@ -54,7 +54,7 @@ To start the project, run
 ```javascript
 node app.js or nodemon app.js
 ```
-Open http://localhost:3000/ to view project in browser.
+Open http://localhost:####/ to view project in browser.
 
 
 ## URL
